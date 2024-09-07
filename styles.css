@@ -1,0 +1,28 @@
+textarea {
+    width:96%;
+}
+
+.small-font {
+    font-size: smaller;
+}
+
+.width-96 {
+    padding-left: 10px;
+    width: 97%;
+    height: 63%;
+}
+
+.dollar {vertical-align: text-top;
+        margin-top: 0px;
+        padding-top: 0px;
+        font-size:small;
+        font-weight: bold;
+}
+
+.ccard {
+    background-color: grey;
+    border-radius: 5px;
+    width:33%;
+    padding:7px;
+    color:white;
+}
